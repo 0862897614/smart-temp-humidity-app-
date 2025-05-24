@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "825743880382",
+    "firebase_url": "https://esp32sensorproject-e83c0-default-rtdb.firebaseio.com",
+    "project_id": "esp32sensorproject-e83c0",
+    "storage_bucket": "esp32sensorproject-e83c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825743880382:android:ad593c808a348826d2eeef",
+        "android_client_info": {
+          "package_name": "com.example.sensordhtt22"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC84UgA9y0hrDSrvDts3tj5srFKOC1HxUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
