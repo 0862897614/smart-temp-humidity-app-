@@ -21,7 +21,7 @@ This Android app enables **real-time monitoring of temperature and humidity**, a
  
 
 🎥 **Demo video**: [[Watch on YouTube](https://www.youtube.com/watch?v=your-video-id)](https://youtu.be/XZl87-dAdTg?si=AB-KasloOCUd7sy5)
-
+📦  Download APK: Click here to download
 ---
 
 ## 3. 🛠️ TECHNOLOGIES USED
