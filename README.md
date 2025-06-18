@@ -55,7 +55,7 @@ This Android app enables **real-time monitoring of temperature and humidity**, a
 
 | Component        | ESP32 Pin  |
 |------------------|------------|
-| DHT11 (Signal)   | D4         |
+| DHT22 (Signal)   | D4         |
 | LED (Anode)      | D2         |
 | GND              | GND        |
 | VCC (3.3V/5V)    | 3.3V       |
